@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @VedantBhamare007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Vedant Bhamare! 👋
 
-<!---
-VedantBhamare007/VedantBhamare007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a passionate Information Technology student located in Nashik. Currently, I'm Cyber Security intern at Senselearners Technologies & learning Ethical Hacking.
+
+## Skills
+
+- Programming languages: C, C++, Python, JavaScript, Java, etc.
+
+- Tools and technologies: Figma, Canva, Adobe Photoshop, Lightroom, Premium Pro, etc.
+
+## Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/vedant-bhamare-43b349216](link-to-linkedin)
+
+Feel free to connect with me or explore my projects. I'm open to collaborations and discussions.
+
+Thanks for visiting my profile! 😊
